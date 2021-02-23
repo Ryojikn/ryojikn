@@ -13,6 +13,8 @@ I'll also keep my best projects down below, hope you enjoy!
 
 ## Machine Learning
 
+[Auto hierarchical classification based on similarity matrix](https://github.com/Ryojikn/auto_hierarchical_classification)
+
 ## Deep Learning
 
 
