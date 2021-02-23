@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hey, I'm Ryoji Kuwae Neto, and here you'll find my personal projects.
+Hey, I'm Ryoji Kuwae Neto, Electronics Engineer and Data Scientist at Santander Tecnologia.
 
-For that, you should know that you'll probably find github pages related to:
+You should know that you'll probably find github pages related to:
 
 - Robotics (I love robots)
 - Machine Learning projects
